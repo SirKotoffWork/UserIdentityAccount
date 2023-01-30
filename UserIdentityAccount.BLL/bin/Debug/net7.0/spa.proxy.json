@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44467",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\PC\\RiderProjects\\UserIdentityAccount\\UserIdentityAccount.Web\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}

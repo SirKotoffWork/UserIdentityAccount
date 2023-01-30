@@ -1,0 +1,12 @@
+C:\Users\PC\RiderProjects\UserIdentityAccount\UserIdentityAccountDTO\bin\Debug\net7.0\UserIdentityAccountDTO.deps.json
+C:\Users\PC\RiderProjects\UserIdentityAccount\UserIdentityAccountDTO\bin\Debug\net7.0\UserIdentityAccountDTO.dll
+C:\Users\PC\RiderProjects\UserIdentityAccount\UserIdentityAccountDTO\bin\Debug\net7.0\UserIdentityAccountDTO.pdb
+C:\Users\PC\RiderProjects\UserIdentityAccount\UserIdentityAccountDTO\obj\Debug\net7.0\UserIdentityAccountDTO.csproj.AssemblyReference.cache
+C:\Users\PC\RiderProjects\UserIdentityAccount\UserIdentityAccountDTO\obj\Debug\net7.0\UserIdentityAccountDTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\RiderProjects\UserIdentityAccount\UserIdentityAccountDTO\obj\Debug\net7.0\UserIdentityAccountDTO.AssemblyInfoInputs.cache
+C:\Users\PC\RiderProjects\UserIdentityAccount\UserIdentityAccountDTO\obj\Debug\net7.0\UserIdentityAccountDTO.AssemblyInfo.cs
+C:\Users\PC\RiderProjects\UserIdentityAccount\UserIdentityAccountDTO\obj\Debug\net7.0\UserIdentityAccountDTO.csproj.CoreCompileInputs.cache
+C:\Users\PC\RiderProjects\UserIdentityAccount\UserIdentityAccountDTO\obj\Debug\net7.0\UserIdentityAccountDTO.dll
+C:\Users\PC\RiderProjects\UserIdentityAccount\UserIdentityAccountDTO\obj\Debug\net7.0\refint\UserIdentityAccountDTO.dll
+C:\Users\PC\RiderProjects\UserIdentityAccount\UserIdentityAccountDTO\obj\Debug\net7.0\UserIdentityAccountDTO.pdb
+C:\Users\PC\RiderProjects\UserIdentityAccount\UserIdentityAccountDTO\obj\Debug\net7.0\ref\UserIdentityAccountDTO.dll

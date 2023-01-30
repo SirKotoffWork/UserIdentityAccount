@@ -1,0 +1,12 @@
+C:\Users\PC\RiderProjects\UserIdentityAccount\UserIdentityAccount.DAL\bin\Debug\net7.0\UserIdentityAccount.DAL.deps.json
+C:\Users\PC\RiderProjects\UserIdentityAccount\UserIdentityAccount.DAL\bin\Debug\net7.0\UserIdentityAccount.DAL.dll
+C:\Users\PC\RiderProjects\UserIdentityAccount\UserIdentityAccount.DAL\bin\Debug\net7.0\UserIdentityAccount.DAL.pdb
+C:\Users\PC\RiderProjects\UserIdentityAccount\UserIdentityAccount.DAL\obj\Debug\net7.0\UserIdentityAccount.DAL.csproj.AssemblyReference.cache
+C:\Users\PC\RiderProjects\UserIdentityAccount\UserIdentityAccount.DAL\obj\Debug\net7.0\UserIdentityAccount.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\RiderProjects\UserIdentityAccount\UserIdentityAccount.DAL\obj\Debug\net7.0\UserIdentityAccount.DAL.AssemblyInfoInputs.cache
+C:\Users\PC\RiderProjects\UserIdentityAccount\UserIdentityAccount.DAL\obj\Debug\net7.0\UserIdentityAccount.DAL.AssemblyInfo.cs
+C:\Users\PC\RiderProjects\UserIdentityAccount\UserIdentityAccount.DAL\obj\Debug\net7.0\UserIdentityAccount.DAL.csproj.CoreCompileInputs.cache
+C:\Users\PC\RiderProjects\UserIdentityAccount\UserIdentityAccount.DAL\obj\Debug\net7.0\UserIdentityAccount.DAL.dll
+C:\Users\PC\RiderProjects\UserIdentityAccount\UserIdentityAccount.DAL\obj\Debug\net7.0\refint\UserIdentityAccount.DAL.dll
+C:\Users\PC\RiderProjects\UserIdentityAccount\UserIdentityAccount.DAL\obj\Debug\net7.0\UserIdentityAccount.DAL.pdb
+C:\Users\PC\RiderProjects\UserIdentityAccount\UserIdentityAccount.DAL\obj\Debug\net7.0\ref\UserIdentityAccount.DAL.dll
